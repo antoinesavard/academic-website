@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Antoine Savard
-          subtitle: "I am a Professor of Climate Science and Security at the Royal Military College Saint-Jean in Canada. My research focuses on sea ice dynamics and modeling. I developed GODAR, a discrete element model of sea ice. From 2025 to 2026, I was a postdoctoral researcher at Aalto University in Finland with Arttu Polojärvi. From 20219 to 2025, I was a doctoral student at McGill University in Canada with Bruno Tremblay."
+          title: Antoine Savard
+          subtitle: "I am a professor of climate science and security at the Royal Military College Saint-Jean in Canada. My research focuses on sea ice dynamics and modeling. I developed GODAR, a discrete element model of sea ice. From 2025 to 2026, I was a postdoctoral researcher at Aalto University in Finland with Arttu Polojärvi. From 20219 to 2025, I was a doctoral student at McGill University in Canada with Bruno Tremblay."
           imageUrl: picture.jpeg
           imageWidth: 160
           imageHeight: 160
